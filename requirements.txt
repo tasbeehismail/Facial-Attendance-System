@@ -1,0 +1,6 @@
+numpy==1.21.0
+pandas==1.3.0
+deepface==0.0.91
+dlib==19.24.4
+opencv-python==4.5.3
+face-recognition==1.3.0
