@@ -8,7 +8,7 @@ import pandas as pd
 
 # Function to mark attendance in Excel sheet
 def mark_attendance(student_id):
-    with open('Attendance.csv', 'r+', encoding='utf-8') as f:
+    with open('Attendance-from-vidoe.csv', 'r+', encoding='utf-8') as f:
         my_data_list = f.readlines()
         id_list = []
         for line in my_data_list:
